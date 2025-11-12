@@ -1,3 +1,7 @@
+# Self Paced fastai course
+Following project is open source from fast.ai, I have used this code to learn basic ml and I have also added some extra file and imporved on theory part, 60-70% material is copy of fast.ai I fully acknowledge thier contribution in this repo 
+
+
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md) / [Japanese](./README_ja.md)
 
 # The fastai book
